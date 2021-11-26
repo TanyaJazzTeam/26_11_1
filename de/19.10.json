@@ -4,15 +4,28 @@
       "name": "Mechanics",
       "sections": [
         {
+          "continent": "Europa",
+          "country": "Frankreich",
+          "capital": "Paris",
+          "food": "Pizza",
+          "bool": "wahr"
         },
         {
-          "continent": "Asia"
+          "continent": "Asia",
+          "country": "China",
+          "capital": "Peking",
+          "case": "Erste",
+          "bool": "falsch"
         },
         {
+          "continent": "Afrika",
+          "country": "Südafrika",
+          "capital": "Kapstadt"
         }
       ]
     },
     {
+      "continent": "Amerika",
       "sections": [
         {
           "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
@@ -20,9 +33,12 @@
       ]
     },
     {
+      "name": "Elektrizität",
       "sections": [
         {
-          "country": "Brazil"
+          "continent": "Südamerika",
+          "country": "Brazil",
+          "capital": "Brasilia"
         }
       ]
     }
