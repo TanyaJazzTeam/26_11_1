@@ -8,12 +8,14 @@
               "continent": "Europe",
               "country": "France",
               "capital": "Paris",
+	      "food": "pizza",			
               "bool": true
           },
           {
           	   "continent": "Asia",
                "country": "China",
                "capital": "Beijing",
+	       "case": "first",
                "bool": false
            },
            {
